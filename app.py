@@ -158,3 +158,4 @@ if st.session_state.resume_text and st.session_state.jd_text:
             )
 
         st.markdown("</div>", unsafe_allow_html=True)
+        #rebuild
