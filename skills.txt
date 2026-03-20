@@ -1,0 +1,23 @@
+python
+sql
+excel
+tableau
+power bi
+machine learning
+deep learning
+data analysis
+data visualization
+pandas
+numpy
+matplotlib
+statistics
+data mining
+nlp
+tensorflow
+pytorch
+django
+flask
+aws
+big data
+hadoop
+spark
