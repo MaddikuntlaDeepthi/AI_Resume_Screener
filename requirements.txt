@@ -1,8 +1,10 @@
 streamlit
-pandas
-numpy==1.26.4
-scikit-learn
-pdfplumber
+pymupdf
+pytesseract
+pdf2image
+pillow
 python-docx
 groq
 python-dotenv
+scikit-learn
+pdfplumber

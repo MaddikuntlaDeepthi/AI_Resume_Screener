@@ -1,23 +1,28 @@
 python
 sql
 excel
-tableau
 power bi
+tableau
 machine learning
 deep learning
-data analysis
-data visualization
-pandas
-numpy
-matplotlib
-statistics
-data mining
 nlp
 tensorflow
 pytorch
 django
 flask
+streamlit
+langchain
+hugging face
+llm
+generative ai
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+git
+github
 aws
-big data
-hadoop
-spark
+azure
+docker
+kubernetes
